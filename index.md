@@ -28,8 +28,7 @@ Email : nattapat.kummoon@gmail.com
 
 
 
-### Pree web host [000webhost](https://ducatith.000webhostapp.com/) // [infinity](http://non005.epizy.com/index.php)
-
+### Pree web host [000webhost](https://ducatith.000webhostapp.com/) // [infinity](http://non005.epizy.com/p_newmodel.php).
 
 ### [Nortwind .io](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/db_northwind.sql) 
 
